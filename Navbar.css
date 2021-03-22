@@ -1,0 +1,23 @@
+
+nav{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: right;
+   
+     background-color: black;
+     
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style: none;
+    padding-right: 10px;
+    color: red;
+}
+li{
+    margin-right: 20px;
+}
+h1{
+    color: red;
+    margin-left: 50px;
+}
